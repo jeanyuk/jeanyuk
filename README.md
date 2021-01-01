@@ -2,7 +2,7 @@
 
 ### Hello World! 👋
 
-Hi, I'm [jeanyuk](https://github.com/jeanyuk), an algorithm 🌐 trader and enthusiast opensource developer.
+Hi, I'm [jeanyuk](https://github.com/jeanyuk), an algorithm 🌐 trader and enthusiast open-source developer. Nomad natural from Brazil.
 
 💬 Ask me about anything [here](https://github.com/jeanyuk/jeanyuk/issues).
 
