@@ -1,10 +1,10 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=jeanyuk&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hello World! ðŸ‘‹
+### Hello World!👋
 
-Hi, I'm [jeanyuk](https://github.com/jeanyuk), a trader and front-end ðŸŒ developer.
+Hi, I'm [jeanyuk](https://github.com/jeanyuk), a trader and front-end 🌐 developer.
 
-ðŸ’¬ Ask me about anything [here](https://github.com/jeanyuk/jeanyuk/issues).
+💬 Ask me about anything [here](https://github.com/jeanyuk/jeanyuk/issues).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jeanyuk.jeanyuk)
 
