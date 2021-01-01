@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=jeanyuk&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hello World!👋
+### Hello World! 👋
 
 Hi, I'm [jeanyuk](https://github.com/jeanyuk), a trader and front-end 🌐 developer.
 
