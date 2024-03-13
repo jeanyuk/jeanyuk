@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm [jeanyuk](https://github.com/jeanyuk), an algorithm 🌐 trader and Open Sourcerer developer.
+I'm [jeanyuk](https://github.com/jeanyuk), an Algorithm Trader 🌐 and Open Sourcerer developer.
 
 💬 Ask me about anything [here](https://github.com/jeanyuk/jeanyuk/issues).
 
